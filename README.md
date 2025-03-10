@@ -51,7 +51,7 @@
 ---
 **Random Quotes**
 > "Programming is not about making working codes but ; it's about best performance." 
-> — Chris Pin
+> — maxwell-Godson
 ---
 ### Fun Facts
 - 🎮 I love playing video games in my free time.
@@ -59,8 +59,8 @@
 - 💪🏽 Faith my strength
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onelrian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com/?user=onelrian&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="GitHub Streak"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lele-maxwell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com/?user=lele-maxwell&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="GitHub Streak"  />
 </div>
 
 ###
@@ -82,19 +82,19 @@
 
 <div align="center">
   <a href="https://discordapp.com/users/1282748778717122722" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=onelrian&color=7356DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=lele-maxwell&color=7356DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   
   <a href="mailto:onelsob57@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=onelrian&color=D14840&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=lele-maxwell&color=D14840&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=onelrian&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onelrian&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=lele-maxwell&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lele-maxwell&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 <!--
