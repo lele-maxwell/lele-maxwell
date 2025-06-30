@@ -103,11 +103,11 @@ Building with modern frameworks, cloud technologies, and automation tools to cre
 ###
 
 <div align="center">
-  <a href="https://discordapp.com/users/1282748778717122722" target="_blank">
+  <a href="https://discordapp.com/users/1282737387377791037" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=lele-maxwell&color=7356DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   
-  <a href="mailto:onelsob57@gmail.com" target="_blank">
+  <a href="mailto:leleivanlele22@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=lele-maxwell&color=D14840&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
