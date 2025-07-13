@@ -66,6 +66,7 @@ Building with modern frameworks, cloud technologies, and automation tools to cre
  * VS Code 
  * Multipass , 
  * Eclipse
+ * Kubenetes
 
 ---
 🌐 **Interests**: System Development and Administration, Cybersecurity , Cloud Computing 
